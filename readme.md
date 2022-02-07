@@ -6,7 +6,9 @@ To execute the server:
 
 `npm run server`
 
-You should get this message in the console: "Server running at http://localhost:9000/"
+You should get this message in the console:
+
+`Server running at http://localhost:9000/`
 
 Then you can open client/index.html with any browser.
 
